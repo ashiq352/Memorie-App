@@ -1,4 +1,4 @@
-# *_Memories App_*
+# *Memories App*
 
 ### _<b>Overview</b>_
 
