@@ -1,4 +1,4 @@
-# *Memories App*
+# Memories App
 
 ### _<b>Overview</b>_
 
