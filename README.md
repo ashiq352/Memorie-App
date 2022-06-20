@@ -2,7 +2,7 @@
 
 ### _<b>Overview</b>_
 
-I make a Full Stack MERN Application  <a href="https://ashiq-memories-app.netlify.app/" target="_blank">Memories App</a>
+I make a Full Stack MERN Application  <a href="https://ashiq-memories-app.netlify.app/" target="_blank">Memories App.</a>
 
 <div style='page-break-after: always'></div>
 
