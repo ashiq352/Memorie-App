@@ -1,6 +1,6 @@
 # **_Memories App_**
 
-### _<u>Tech</u>_
+### _<u>Overview</u>_
 
 I make a Full Stack MERN Application  <a href="https://ashiq-memories-app.netlify.app/" target="_blank">Memories App</a>
 
@@ -12,6 +12,7 @@ I make a Full Stack MERN Application  <a href="https://ashiq-memories-app.netlif
 - Express
 - NodeJS
 - MongoDB
+- Redux
 
 <div style='page-break-after: always'></div>
 
@@ -41,7 +42,7 @@ Product page, Search page, Cart & Chekout Page
 
 ### _<u>Project Overview</u>_
 
-[https://user-images.githubusercontent.com/69167064/150655248-fa21911d-0c24-420e-89a5-c78b6fbe0271.mp4](https://camo.githubusercontent.com/204be81e6882263793a916226f5e9b396b676a1cd9567140f6cbe571f1dd2125/68747470733a2f2f692e6962622e636f2f5a385930434a762f53637265656e73686f742d323032302d31302d33302d61742d31312d31302d30342e706e67)
+[https://camo.githubusercontent.com/204be81e6882263793a916226f5e9b396b676a1cd9567140f6cbe571f1dd2125/68747470733a2f2f692e6962622e636f2f5a385930434a762f53637265656e73686f742d323032302d31302d33302d61742d31312d31302d30342e706e67]
 
 <div style='page-break-after: always'></div>
 
@@ -53,7 +54,7 @@ Ashiq Khan
 
 > <a href="https://www.linkedin.com/in/ashiq-khan-412709222" target="_blank">Linkedin</a>
 
->- My PortFolio-[@Ashiq_Khan](https://new-portfolio-myseyso3g-ashiq352.vercel.app/#//)
+>-[Portfolio](https://new-portfolio-myseyso3g-ashiq352.vercel.app/#//)
 
 
 <!-- 
